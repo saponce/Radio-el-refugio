@@ -1,0 +1,159 @@
+.contenedor{
+    background: url(img/radio.jpg) no-repeat center / cover;
+    border-top-left-radius: 0.7em;
+    border-top-right-radius: 0.7em;
+    color: black;
+}
+body{
+    background-color: black;
+}
+
+.contenedor{
+    width: 85%;
+    background-color:cornflowerblue;
+    border-radius: 0.7em;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 1em;
+    box-shadow: -15px 22px 48px -17px rgba(255, 0, 0, 0.65);
+}
+.portada h1{
+            color: blanchedalmond; 
+            background-color: black;   
+}
+nav{
+        text-align: center;
+        padding-bottom:0.3em; 
+		padding-top:0.3em;
+		background-color:cornflowerblue;
+}
+nav ul{
+    margin: 0px;
+    padding: 0px;
+}
+nav ul li {
+    display:inline-block;
+    width: 25%;
+		margin-right: -4px;
+}
+nav ul li a{
+    display: block;
+    text-decoration: none;
+    color: white;
+    padding: 0.5em;
+}
+nav ul li  a:hover{
+    background-color: black;
+    transition: 1s;
+}
+.FM {
+    text-align: center;
+   display: block;
+   width: 35%;
+    background-color:cornflowerblue;
+    border-radius: 100em;
+    margin: 0 auto;
+    text-align: center;
+    box-shadow: -15px 22px 48px -17px rgba(255, 0, 0, 0.65);
+  
+    
+}
+.ondas{
+    text-align: center;
+    margin-top: 40px;
+    
+}
+.links {
+    text-align: center;
+    padding-top: 30px;
+    
+}
+.links div:hover {
+    background-color:cornflowerblue;
+    transition: 0.7s;
+    width: 98%;
+    
+}
+.whatsapp img{
+     width: 50px;
+     height: 50px;
+     border-radius: 100em;
+}
+.whatsapp h1 {
+    color: blanchedalmond;
+    display: inline-block;
+}
+.facebook img {
+    width: 50px;
+    height: 50px;
+    border-radius: 100em;
+}
+.facebook a{
+    color: blanchedalmond; 
+    display: inline-block;
+}
+.webb img{
+    width: 50px;
+    height: 50px;
+    border-radius: 100em;
+}
+.webb a {
+    color: blanchedalmond;
+    display: inline-block;
+}
+.app img {
+    width: 50px;
+    height: 50px;
+    border-radius: 100em;
+}
+.app a {
+    color: blanchedalmond;
+    display: inline-block;
+}
+.grupo img {
+    width: 50px;
+    height: 50px;
+    border-radius: 100em;
+}
+.grupo a {
+    color: blanchedalmond;
+    display: inline-block;
+}
+h2{
+    color: blanchedalmond;
+    font-size: 15px;
+    padding-top: 30px;
+
+}
+h1{
+    color: blanchedalmond;
+    text-align: center;
+}
+p{
+     text-align: center;
+     color: blanchedalmond;
+     font-size: 20px;
+}
+
+.links2 {
+    width: 85%;
+    background-color:cornflowerblue;
+    border-radius: 0.7em;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 1em;
+    box-shadow: -15px 22px 48px -17px rgba(255, 0, 0, 0.65);
+    
+}
+.links2 a:hover{
+    transition: 1s;
+    background-color:brown;
+    border-radius: 100px;
+    
+}
+.informacion h1{
+    background-color: black;
+}
+.informacion h2{
+    color: black;
+}
